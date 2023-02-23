@@ -1,0 +1,3903 @@
+[
+    {
+        "id": 18663,
+        "rambler_id": null,
+        "title": "Папы против мам",
+        "age_rating": "12+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 24,
+                "title": "семейный"
+            },
+            {
+                "id": 12,
+                "title": "комедия"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s1ru1.kinoplan24.ru/787/a8111324252975/18663.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/787/a8111324252975/18663.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s1ru1.kinoplan24.ru/33/9a8b78f1c56f1f/80714.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/913/9a8b79dcba155c/80715.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/17/9a8b7aaea740f2/80716.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/883/9a8b7bac183042/80717.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/55/9a8b7c49995d52/80718.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/74/9a8b7d9bd832d3/80719.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/16/9a8b7e49fcf786/80720.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/436/9a8b807cd1cd4c/80721.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/380/9a8b8146ab4a8b/80722.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/707/9a8b834b12deb7/80723.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/129/9a8b84437336f3/80724.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/52/9a8b8550cfe0cc/80725.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/727/9a8b86f5bf8185/80726.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/224/9a8b8781a37782/80727.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/769/9a8b8860bd2437/80728.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/806/9a8b89f7f8f8a1/80729.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/67/9a8b8a47b0d63c/80730.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/884/9a8b8b36c8092d/80731.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/57/9a8b8cdbce0613/80732.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/787/9a8b8d6818bc68/80733.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/753/9a8b8e617b9290/80734.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/857/9a8b8ff2e0469e/80735.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/233/9a8b906f515b8d/80736.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/286/9a8b91001a0f49/80737.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/441/9a8b9394fee23a/80738.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/380/9a8b943ffe270d/80739.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/79/9a8b95a1bdd0f7/80740.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/57/9a8b9680b0c298/80741.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/991/9a8b97084adde3/80742.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/873/9a8b9830220389/80743.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/80/9a8b99bf5fd1a2/80744.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/226/9a8b9afa5b1ef0/80745.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/807/9a8b9bf57b0810/80746.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/57/9a8b9ccb1075dc/80747.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/804/9a8b9d06bf1fe4/80748.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/121/9a8b9e0b23f42b/80749.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/857/9a8b9fb37cfcf8/80750.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/915/9a8ba010c16dbd/80751.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/70/9a8ba124a29b01/80752.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/129/9a8ba220a3e1e1/80753.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/767/9a8ba37ae20cba/80754.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/767/9a8ba4b38e1e01/80755.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/767/9a8ba53b3ccc08/80756.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/751/9a8ba64ef66f37/80757.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/50/9a8ba725cce93a/80758.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/61/9a8ba887238323/80759.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/129/9a8ba9e2c3abd6/80760.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/224/9a8baad97384f5/80761.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/728/9a8bab9b526667/80762.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/35/9a8bac9667a92f/80763.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/727/9a8bad0d3d0bfd/80764.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/860/9a8baeeb7e34c0/80765.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/860/9a8bafdc2d1ddc/80766.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/755/9a8bb0c298ecf3/80767.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/933/9a8bb1ede41912/80768.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/55/9a8bb26cd367ad/80769.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/15/9a8bb346cec81f/80770.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/724/9a8bb4d49cc75e/80771.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/973/9a8bb52b3ed6d3/80772.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/501/9a8bb658c26a45/80773.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/765/9a8bb7f9c9d505/80774.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/718/9a8bb8455f78a4/80775.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/15/9a8bb9a7ad19f8/80776.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/20/9a8bba8c5e6e12/80777.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/991/9a8bbb2cd3fef7/80778.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/51/9a8bbc9bce97b9/80779.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/70/9a8bbd026c42bc/80780.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/56/9a8bbe63d3c31c/80781.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/785/9a8bbf92533d3c/80782.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/63/9a8bc021cc8b18/80783.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/497/9a8bc17bd3b73c/80784.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/441/9a8bc38209fde2/80785.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/441/9a8bc4935b6b53/80786.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/860/9a8bc56a6b57ad/80787.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/16/9a8bc652b8390a/80788.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/219/9a8bc7f18c05d2/80789.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/914/9a8bc8991234d5/80790.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/73/9a8bc948fc84ad/80791.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/133/9a8bca0ac471ce/80792.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/910/9a8bcbceb14595/80793.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/754/9a8bcc279f73cc/80794.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/986/9a8bcd0314f8c4/80795.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 95,
+        "qualifiers": [
+            "premiere"
+        ],
+        "all_qualifiers": [
+            "premiere",
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-23",
+        "cinema_start_date": "2023-02-23",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2cbe6c67600001e21be4",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2893,
+                    "title": "7",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T16:40:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f33df5a85c110001c4c6bd",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 30016,
+                    "title": "VIP",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T16:55:00.000+04:00",
+                "price": {
+                    "min": 100000,
+                    "max": 100000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f36336a83a220001e93ed9",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 39093,
+                    "title": "Comfort",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T19:35:00.000+04:00",
+                "price": {
+                    "min": 50000,
+                    "max": 50000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2cef6c67600001e21c3d",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2893,
+                    "title": "7",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:40:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2cff74d2160001123163",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2893,
+                    "title": "7",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T23:35:00.000+04:00",
+                "price": {
+                    "min": 26000,
+                    "max": 28000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 19010,
+        "rambler_id": null,
+        "title": "Непослушная",
+        "age_rating": "18+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 159,
+                "title": "эротическая драма"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2023,
+        "poster": "https://s2ru1.kinoplan24.ru/976/ac16b7a2b8f596/19010.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/976/ac16b7a2b8f596/19010.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s1ru1.kinoplan24.ru/378/9dd7ba8fa5b00f/81066.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/226/9dd7bbefead3be/81067.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/67/9dd7bc05106aa3/81068.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/132/9dd7bd6c440aac/81069.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/402/9dd7be2d501592/81070.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/496/9dd7bf9f25e48a/81071.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 109,
+        "qualifiers": [],
+        "all_qualifiers": [
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-14",
+        "cinema_start_date": "2023-02-14",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2df46c67600001e21d7c",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2892,
+                    "title": "2",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T19:05:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2dfc74d21600011232ca",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2892,
+                    "title": "2",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:00:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f33d8aa83a220001e70c22",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 39093,
+                    "title": "Comfort",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:30:00.000+04:00",
+                "price": {
+                    "min": 50000,
+                    "max": 50000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f33ddaa83a220001e70dab",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 30016,
+                    "title": "VIP",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T22:30:00.000+04:00",
+                "price": {
+                    "min": 100000,
+                    "max": 100000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2e036c67600001e21d9d",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2892,
+                    "title": "2",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T22:55:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 17899,
+        "rambler_id": null,
+        "title": "Марлоу",
+        "age_rating": "18+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 27,
+                "title": "триллер"
+            }
+        ],
+        "countries": [
+            {
+                "id": 5681,
+                "title": "США"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s1ru1.kinoplan24.ru/285/a8ed0c9211c07b/17899.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/285/a8ed0c9211c07b/17899.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s2ru1.kinoplan24.ru/83/a597108b19eadc/81629.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/229/a59711a5289bc9/81630.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/787/a597123bc5fe4d/81631.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/378/a5971345fba8f0/81632.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/706/a597141326d707/81633.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 109,
+        "qualifiers": [
+            "premiere"
+        ],
+        "all_qualifiers": [
+            "premiere"
+        ],
+        "russia_start_date": "2023-02-23",
+        "cinema_start_date": "2023-02-23",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2e9e74d2160001123479",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 29948,
+                    "title": "6",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T16:00:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2ec26c67600001e21f9d",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 29948,
+                    "title": "6",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T19:25:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2ed574d2160001123526",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 29948,
+                    "title": "6",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:25:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f33e89a83a220001e70f23",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 39093,
+                    "title": "Comfort",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T23:25:00.000+04:00",
+                "price": {
+                    "min": 50000,
+                    "max": 50000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 18808,
+        "rambler_id": null,
+        "title": "Праведник",
+        "age_rating": "12+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 9,
+                "title": "драма"
+            },
+            {
+                "id": 5,
+                "title": "военный"
+            },
+            {
+                "id": 10,
+                "title": "исторический"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s2ru1.kinoplan24.ru/34/a263e9d01cef45/18808.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/34/a263e9d01cef45/18808.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s1ru1.kinoplan24.ru/868/a2654e6c379b02/81232.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/378/a2654fb31cdd61/81233.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/976/a2655033e5df79/81234.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/728/a265523f7508e9/81235.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/83/a265532ee932b1/81236.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/855/a265540085f3c3/81237.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/751/a26555ed263584/81238.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/70/a2655632d1b0d0/81239.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/375/a2655792acdf4d/81240.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/66/a26558be4ba4f4/81241.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/709/a26559f7a240e2/81242.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/219/a2655adab306de/81243.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/15/a2655b34c28dbb/81244.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 163,
+        "qualifiers": [
+            "premiere"
+        ],
+        "all_qualifiers": [
+            "premiere",
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-16",
+        "cinema_start_date": "2023-02-16",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2e1d74d21600011232f9",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21280,
+                    "title": "3",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T16:30:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f66b8951c0d8000110428b",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2893,
+                    "title": "7",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T18:35:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2e3974d2160001123322",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21280,
+                    "title": "3",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:35:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 18945,
+        "rambler_id": null,
+        "title": "Бешенство",
+        "age_rating": "18+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 27,
+                "title": "триллер"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2021,
+        "poster": "https://s1ru1.kinoplan24.ru/221/aaeb747d7f1f5d/18945.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/221/aaeb747d7f1f5d/18945.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s2ru1.kinoplan24.ru/22/a62c99e39a2fc4/81774.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/230/a62c9cd6466c68/81775.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/226/a62c9e3a47ae8f/81776.JPG?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/722/a62ca083b8e84e/81777.JPG?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/765/a62ca1b125ccb8/81778.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/437/a62ca21612f59c/81779.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/378/a62ca54fdab1ea/81780.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/221/a62ca60129d3ae/81781.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/788/a62cad0d776ac4/81782.JPG?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/855/a62cb3b66df86b/81783.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/724/a62cb5192d94a0/81784.JPG?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/935/a62cb6b280fb30/81785.JPG?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/498/a62cb7b2e91320/81786.JPG?mode=fit&width=512&height=512"
+        ],
+        "duration": 100,
+        "qualifiers": [
+            "premiere"
+        ],
+        "all_qualifiers": [
+            "premiere",
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-23",
+        "cinema_start_date": "2023-02-23",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2ffb18c6740001ff29de",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21281,
+                    "title": "5",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T19:50:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef300018c6740001ff29ed",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21281,
+                    "title": "5",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:45:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f3632fa85c110001c5fff3",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21281,
+                    "title": "5",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T23:40:00.000+04:00",
+                "price": {
+                    "min": 26000,
+                    "max": 28000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 10020947,
+        "rambler_id": null,
+        "title": "Аватар.",
+        "age_rating": "14+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [],
+        "countries": [],
+        "year": 2022,
+        "poster": "https://s1ru1.kinoplan24.ru/329/9c40a7ae534f15/10020947.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/329/9c40a7ae534f15/10020947.jpg?mode=fit&width=256&height=256",
+        "screenshots": [],
+        "duration": 190,
+        "qualifiers": [
+            "custom"
+        ],
+        "all_qualifiers": [
+            "custom"
+        ],
+        "russia_start_date": "2022-12-22",
+        "cinema_start_date": "2022-12-22",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2db274d216000112325a",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2891,
+                    "title": "1",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T18:30:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f33dcda85c110001c4c600",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 30016,
+                    "title": "VIP",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T19:00:00.000+04:00",
+                "price": {
+                    "min": 100000,
+                    "max": 100000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63f66b7b51c0d8000110427c",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2891,
+                    "title": "1",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T21:50:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 17183,
+        "rambler_id": null,
+        "title": "Чебурашка",
+        "age_rating": "6+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 24,
+                "title": "семейный"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s2ru1.kinoplan24.ru/228/a3fff9c9c87bdb/17183.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/228/a3fff9c9c87bdb/17183.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s2ru1.kinoplan24.ru/18/75358f5d2cc816/74413.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/19/75359135ca1f64/74414.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/724/753592385962e7/74415.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/379/7535933f907057/74416.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/81/753597f3602a29/74417.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/728/753598ed14d685/74418.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/727/753599db58df6f/74419.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/804/75359a3ffa9b99/74420.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/708/75359c04205c11/74421.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/61/75359df2e68050/74422.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 113,
+        "qualifiers": [
+            "for_kids"
+        ],
+        "all_qualifiers": [
+            "for_kids",
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-01-01",
+        "cinema_start_date": "2022-12-24",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2e4d6c67600001e21e2a",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2891,
+                    "title": "1",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T16:10:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            },
+            {
+                "id": "63ef2e2374d2160001123303",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21280,
+                    "title": "3",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T19:30:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 17226,
+        "rambler_id": null,
+        "title": "Снежная королева: Разморозка",
+        "age_rating": "6+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 19,
+                "title": "мультфильм"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s2ru1.kinoplan24.ru/286/9e4fa76b2a80d7/17226.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/286/9e4fa76b2a80d7/17226.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s1ru1.kinoplan24.ru/57/9e4fe1d07e8133/81103.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/229/9e4fe292f489db/81104.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/56/9e4fe39101ef91/81105.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/82/9e4fe4863fed64/81106.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/883/9e4fe5e3b7c1fa/81107.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/725/9e4fe65ac79342/81108.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/808/9e4fe79e5a0a1b/81109.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/406/9e4fe820eeaa69/81110.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/30/9e4fe90c4eb88c/81111.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 75,
+        "qualifiers": [
+            "premiere",
+            "for_kids"
+        ],
+        "all_qualifiers": [
+            "premiere",
+            "for_kids",
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-16",
+        "cinema_start_date": "2023-02-16",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2eac74d21600011234ac",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 29948,
+                    "title": "6",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T18:00:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 18679,
+        "rambler_id": null,
+        "title": "Рок дог 3: Битва за бит",
+        "age_rating": "6+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 65,
+                "title": "анимация"
+            }
+        ],
+        "countries": [
+            {
+                "id": 2374,
+                "title": "Китай"
+            },
+            {
+                "id": 5681,
+                "title": "США"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s2ru1.kinoplan24.ru/872/99dc4b299507c7/18679.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/872/99dc4b299507c7/18679.jpg?mode=fit&width=256&height=256",
+        "screenshots": [],
+        "duration": 90,
+        "qualifiers": [
+            "premiere",
+            "for_kids"
+        ],
+        "all_qualifiers": [
+            "premiere",
+            "for_kids"
+        ],
+        "russia_start_date": "2023-02-23",
+        "cinema_start_date": "2023-02-23",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2ded74d21600011232ba",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2892,
+                    "title": "2",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T17:25:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 17413,
+        "rambler_id": null,
+        "title": "Заклятье. Первое пробуждение",
+        "age_rating": "18+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 64,
+                "title": "хоррор"
+            }
+        ],
+        "countries": [
+            {
+                "id": 1707,
+                "title": "Испания"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s1ru1.kinoplan24.ru/285/ac1dba1caac1c9/17413.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/285/ac1dba1caac1c9/17413.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s2ru1.kinoplan24.ru/915/aaaa2f448fbc61/82396.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/219/aaaa3262867525/82397.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/807/aaaa337acac7e9/82398.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/987/aaaa34b5045f93/82399.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/222/aaaa35c6d9c19d/82400.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/707/aaaa366031d6c1/82401.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/286/aaaa375529484f/82402.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/931/aaaa38c2b35a0e/82403.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/131/aaaa39d5384684/82404.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/19/aaaa3c069d3468/82405.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 99,
+        "qualifiers": [
+            "premiere"
+        ],
+        "all_qualifiers": [
+            "premiere"
+        ],
+        "russia_start_date": "2023-02-16",
+        "cinema_start_date": "2023-02-16",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2f016c67600001e22374",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 29948,
+                    "title": "6",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T23:30:00.000+04:00",
+                "price": {
+                    "min": 26000,
+                    "max": 28000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 17295,
+        "rambler_id": null,
+        "title": "Свободные отношения",
+        "age_rating": "16+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 72,
+                "title": "романтическая комедия"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2021,
+        "poster": "https://s2ru1.kinoplan24.ru/497/9e0e69cce8813b/17295.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/497/9e0e69cce8813b/17295.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s2ru1.kinoplan24.ru/222/a9d2eeceb5a0e8/82314.png?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/884/a9d2ef9d96cb92/82315.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/118/a9d2f04b2234ef/82316.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/784/a9d2f327a268c0/82317.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/719/a9d2f74f4e2508/82318.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/885/a9d2fbc988cb12/82319.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/975/a9d2fd623b9e23/82320.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/933/a9d2fe984bfca7/82321.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/884/a9d2ff47ceeddb/82322.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/755/a9d30063e81fa7/82323.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/63/a9d3029eca2fff/82324.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/868/a9d305c724c83d/82325.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 102,
+        "qualifiers": [],
+        "all_qualifiers": [
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-09",
+        "cinema_start_date": "2023-02-09",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2fd631ff80000189c2c1",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21281,
+                    "title": "5",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T16:05:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "id": 19156,
+        "rambler_id": null,
+        "title": "Быть",
+        "age_rating": "12+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 12,
+                "title": "комедия"
+            }
+        ],
+        "countries": [
+            {
+                "id": 3159,
+                "title": "Россия"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s1ru1.kinoplan24.ru/61/a4b501643ae6f0/19156.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/61/a4b501643ae6f0/19156.jpg?mode=fit&width=256&height=256",
+        "screenshots": [],
+        "duration": 114,
+        "qualifiers": [],
+        "all_qualifiers": [
+            "pro_culture"
+        ],
+        "russia_start_date": "2023-02-09",
+        "cinema_start_date": "2023-02-09",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63f33ed9a83a220001e70f92",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 39093,
+                    "title": "Comfort",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T17:30:00.000+04:00",
+                "price": {
+                    "min": 50000,
+                    "max": 50000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 16908,
+        "rambler_id": null,
+        "title": "Моя пиратская свадьба",
+        "age_rating": "18+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [
+            {
+                "id": 63,
+                "title": "экшн"
+            },
+            {
+                "id": 12,
+                "title": "комедия"
+            }
+        ],
+        "countries": [
+            {
+                "id": 5681,
+                "title": "США"
+            }
+        ],
+        "year": 2022,
+        "poster": "https://s1ru1.kinoplan24.ru/860/a62cca3f6262b3/16908.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s1ru1.kinoplan24.ru/860/a62cca3f6262b3/16908.jpg?mode=fit&width=256&height=256",
+        "screenshots": [
+            "https://s2ru1.kinoplan24.ru/57/9ad1a702b45757/80826.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/977/9ad1a8b85c3857/80827.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/706/9ad1a9ad7cd3f6/80828.jpg?mode=fit&width=512&height=512",
+            "https://s1ru1.kinoplan24.ru/857/9ad1aad802fc22/80829.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/990/9ad1abeaa33bf7/80830.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/764/9ad1acff1a67ce/80831.jpg?mode=fit&width=512&height=512",
+            "https://s2ru1.kinoplan24.ru/405/9ad1addca604b8/80832.jpg?mode=fit&width=512&height=512"
+        ],
+        "duration": 100,
+        "qualifiers": [],
+        "all_qualifiers": [],
+        "russia_start_date": "2023-02-14",
+        "cinema_start_date": "2023-02-14",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2ff331ff80000189c2db",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 21281,
+                    "title": "5",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T18:05:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 10021503,
+        "rambler_id": null,
+        "title": "Кот в сапогах 2.",
+        "age_rating": "6+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [],
+        "countries": [],
+        "year": 2023,
+        "poster": "https://s2ru1.kinoplan24.ru/304/a42e3bac617eda/10021503.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/304/a42e3bac617eda/10021503.jpg?mode=fit&width=256&height=256",
+        "screenshots": [],
+        "duration": 100,
+        "qualifiers": [
+            "custom"
+        ],
+        "all_qualifiers": [
+            "custom"
+        ],
+        "russia_start_date": "2023-01-19",
+        "cinema_start_date": "2023-01-19",
+        "cinema_next_date": "2023-02-23",
+        "seances": [
+            {
+                "id": "63ef2f2a31ff80000189c1d5",
+                "cinema_id": 725,
+                "hall": {
+                    "id": 2892,
+                    "title": "2",
+                    "is_vip": false,
+                    "seats_limit": null
+                },
+                "start_date": "2023-02-23",
+                "start_date_time": "2023-02-23T15:40:00.000+04:00",
+                "price": {
+                    "min": 28000,
+                    "max": 32000
+                },
+                "is_allowed_online_sale": true,
+                "formats": [
+                    {
+                        "id": 1,
+                        "title": "2D"
+                    }
+                ]
+            }
+        ],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "id": 10021505,
+        "rambler_id": null,
+        "title": "Аватар.3Д",
+        "age_rating": "14+",
+        "formats": [
+            {
+                "id": 1,
+                "title": "2D"
+            }
+        ],
+        "genres": [],
+        "countries": [],
+        "year": 2023,
+        "poster": "https://s2ru1.kinoplan24.ru/819/a270abc968eb5e/10021505.jpg?mode=fit&width=512&height=512",
+        "rating": {},
+        "thumbnail": "https://s2ru1.kinoplan24.ru/819/a270abc968eb5e/10021505.jpg?mode=fit&width=256&height=256",
+        "screenshots": [],
+        "duration": 190,
+        "qualifiers": [
+            "custom"
+        ],
+        "all_qualifiers": [
+            "custom"
+        ],
+        "russia_start_date": "2023-01-12",
+        "cinema_start_date": "2023-01-14",
+        "cinema_next_date": "2023-02-24",
+        "seances": [],
+        "ticketCost": 200,
+        "rows": 20,
+        "cols": 6,
+        "seats": {
+            "A": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "B": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "C": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "D": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "E": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "F": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "G": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
